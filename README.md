@@ -1,24 +1,23 @@
 ### sentiment_analysis_project
 
 Sentiment analysis uses natural language processing and machine learning techniques to analyze the emotional tone or sentiment behind a piece of text. It involves identifying and categorizing opinions expressed in a text as positive, negative, or neutral.
-
-Steps
- 1  Download Dataset
- 2  Data Preprocessing
+##### Steps
+    1  Download Dataset
+    2  Data Preprocessing
      # Text Preprocessing
      # Build Vocabulary
      # Vectorization
      # Handle Imbalanced Dataset
-3 Model Building
+    3 Model Building
     # Logistic Regression
     # Naive Bayes
     # Decision Tree
     # Random Forest
     # Vector Machine
-4 Model Evaluation
+    4 Model Evaluation
     # Accuracy
     # Precision
     # Recall
     # F1 Score
-5 Build Prediction Pipeline
+    5 Build Prediction Pipeline
  
